@@ -11,16 +11,7 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Section 3 : Setting up your project
 * Section 4 : Creating a development server
 * Section 5 : Creating a Django app
-* Section 6 : 
-* Section 7 :
-* Section 8 :
-* Section 9 :
-* Section 10 :
-* Section 11 :
-* Section 12 :
-* Section 13 :
-* Section 14 :
-* Section 15 :
+
 
 
 # Environment  
