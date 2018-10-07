@@ -33,4 +33,7 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 [Django Substituting a custom User model (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
 [Django normalize_email (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)  
 [Django Admin Site](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#module-django.contrib.admin)  
-[Django URL Dispatcher (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/http/urls/)
+[Django URL Dispatcher (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/http/urls/)  
+[Django REST Framework Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/)  
+[Django REST Framework Serializer Fields (Official Docs)](https://www.django-rest-framework.org/api-guide/fields/)   
+
