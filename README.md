@@ -23,8 +23,9 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Git-SCM
 
 # Reference
-[Mark Winterbottom GitHub](https://gist.github.com/LondonAppDev)
+[Mark Winterbottom GitHub](https://gist.github.com/LondonAppDev)   
 [Virtual Environmet Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)  
-[Model Feild Reference (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
-[Substituting a custom User model (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
-[normalize_email (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
+[Django Models (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/db/models/)    
+[Django Model Fields Reference (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
+[Django Substituting a custom User model (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
+[Django normalize_email (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
