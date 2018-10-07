@@ -23,7 +23,9 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Git-SCM
 
 # Reference
-[Mark Winterbottom GitHub](https://gist.github.com/LondonAppDev)   
+[Mark Winterbottom GitHub](https://github.com/LondonAppDev)   
+[Mark Winterbottom Gist GitHub](https://gist.github.com/LondonAppDev)   
+[Project Code](https://github.com/LondonAppDev/profile-rest-api)  
 [Virtual Environmet Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)  
 [Django Models (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/db/models/)    
 [Django Model Fields Reference (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
