@@ -12,6 +12,7 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Section 4 : Creating a development server
 * Section 5 : Creating a Django app
 * Section 6 : Setup the Database
+* Section 7 : Setup Django Admin   
 
 
 
