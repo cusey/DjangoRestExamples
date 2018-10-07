@@ -25,5 +25,6 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 # Reference
 [Mark Winterbottom GitHub](https://gist.github.com/LondonAppDev)
 [Virtual Environmet Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)  
-[Model Feild Reference](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
-[Substituting a custom User model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
+[Model Feild Reference (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
+[Substituting a custom User model (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
+[normalize_email (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
