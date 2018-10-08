@@ -44,5 +44,7 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 [Django URL Dispatcher (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/http/urls/)  
 [Django REST Framework Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/)  
 [Django REST Framework Serializer Fields (Official Docs)](https://www.django-rest-framework.org/api-guide/fields/)  
-[Django REST Framework Status Codes (Official Docs)](https://www.django-rest-framework.org/api-guide/status-codes/)  
-[Django REST Framework Model Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)    
+[Django REST Framework Status Codes (Official Docs)](https://www.django-rest-framework.org/api-guide/status-codes/)     
+[Django REST Framework Model Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)   
+[Django REST Framework Permissions (Official Docs)](https://www.django-rest-framework.org/api-guide/permissions/)  
+
