@@ -7,7 +7,7 @@ from rest_framework.authentication import TokenAuthentication
 from rest_framework.authtoken.serializers import AuthTokenSerializer
 from rest_framework.authtoken.views import ObtainAuthToken
 
-from . import serializers
+from . import serializers, models
 
 # Create your views here.
 class HelloApiView(APIView):
@@ -101,3 +101,9 @@ class HelloViewSet(viewsets.ViewSet):
         """Handles removing an object."""
 
         return Response({"http_method":"DELETE"})
+
+class UserProfileViewSet(viewsets.ModelViewSet):
+    """Handles creating and updating profiles"""
+
+    serializer_class = serializers.UserProfileSerializer
+    queryset = models.UserProfile.objects.all()
