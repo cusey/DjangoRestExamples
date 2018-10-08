@@ -13,6 +13,14 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Section 5 : Creating a Django app
 * Section 6 : Setup the Database
 * Section 7 : Setup Django Admin   
+* Section 8 : Introduction to API Views
+* Section 9 : Introduction to Viewsets
+* Section 10 :
+* Section 11 :
+* Section 12 :
+* Section 13 :
+* Section 14 :
+* Section 15 :
 
 
 
