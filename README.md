@@ -17,10 +17,9 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 * Section 9 : Introduction to Viewsets
 * Section 10 : Create Profiles API
 * Section 11 : Create login API
-* Section 12 :
+* Section 12 : Create profile feed API
 * Section 13 :
 * Section 14 :
-* Section 15 :
 
 
 
