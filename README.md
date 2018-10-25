@@ -1,4 +1,8 @@
 # Profile Reset API
+ 
+![Django](https://github.com/cusey/ImageForWiki/blob/master/Logos/Django.PNG)    
+
+![Django Rest Frame](https://github.com/cusey/ImageForWiki/blob/master/Logos/Django_Rest_Frame.PNG)   
 
 Description: REST API providing basic functionality for managing user profiles  
 Local file location:
@@ -31,15 +35,19 @@ C:\Users\john_\OneDrive\Documents\GitHub\profiles-rest-api
 
 # Reference
 [Virtual Environmet Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)  
-[Django Models (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/db/models/)    
-[Django Model Fields Reference (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
-[Django Substituting a custom User model (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
-[Django normalize_email (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)  
-[Django Admin Site (Officail Docs)](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#module-django.contrib.admin)  
-[Django URL Dispatcher (Officail Docs)](https://docs.djangoproject.com/en/1.11/topics/http/urls/)  
-[Django REST Framework Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/)  
-[Django REST Framework Serializer Fields (Official Docs)](https://www.django-rest-framework.org/api-guide/fields/)  
-[Django REST Framework Status Codes (Official Docs)](https://www.django-rest-framework.org/api-guide/status-codes/)     
-[Django REST Framework Model Serializer (Official Docs)](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)   
-[Django REST Framework Permissions (Official Docs)](https://www.django-rest-framework.org/api-guide/permissions/)  
+
+[Django](https://www.djangoproject.com/)
+[Django Models](https://docs.djangoproject.com/en/1.11/topics/db/models/)    
+[Django Model Fields Reference](https://docs.djangoproject.com/en/1.11/ref/models/fields/)  
+[Django Substituting a custom User model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)   
+[Django normalize_email](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)  
+[Django Admin Site](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#module-django.contrib.admin)  
+[Django URL Dispatcher](https://docs.djangoproject.com/en/1.11/topics/http/urls/) 
+
+[Django REST Framework](https://www.django-rest-framework.org/)
+[Django REST Framework Serializer](https://www.django-rest-framework.org/api-guide/serializers/)  
+[Django REST Framework Serializer Fields](https://www.django-rest-framework.org/api-guide/fields/)  
+[Django REST Framework Status Codes](https://www.django-rest-framework.org/api-guide/status-codes/)     
+[Django REST Framework Model Serializer](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)   
+[Django REST Framework Permissions ](https://www.django-rest-framework.org/api-guide/permissions/)  
 
